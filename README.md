@@ -1,1 +1,1 @@
-# Marchine-Learning-Nanodegree-Projects
+# Machine-Learning-Nanodegree-Projects
